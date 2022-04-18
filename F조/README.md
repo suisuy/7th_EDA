@@ -3,7 +3,8 @@
 ___
 
 ![mm](https://github.com/YonseiDSL/6th_EDA/blob/master/dsl_logo.JPG?raw=true)
-
+## Collaboratros
+강현우, 권수현, 김한빈, 이승주, 조수연
 
 ### Sleep_data_분석
 (주)플루비오파일의 닥터도지 어플 사전예약자들의 설문조사 응답 데이터인 Sleep-Data를 전처리하고, 시각화하는 코드입니다. 
